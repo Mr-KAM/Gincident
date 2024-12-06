@@ -2,7 +2,7 @@
 
 import reflex as rx
 from rxconfig import config
-from models import Referents, SessionLocal
+from Gincident.models import Referents, SessionLocal
 
 print("packages successfully imported")
 print("===============================================")
